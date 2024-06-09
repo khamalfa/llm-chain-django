@@ -1,0 +1,8 @@
+install python 3.11
+install ollama
+activate ollama
+intrepeter
+clear cache
+create venv
+activate venv
+install langchain_community
