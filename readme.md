@@ -1,4 +1,4 @@
-```markdown
+
 # Chatbot Project [Django + Postgresql + Ollama] for beginner
 
 ![Result](git-pics/result.png)
