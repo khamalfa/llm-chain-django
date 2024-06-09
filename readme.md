@@ -1,5 +1,7 @@
 
-# Chatbot Project [Django + Postgresql + Ollama] for beginner
+# Rest API Chatbot
+
+Chatbot Project using [Django + Postgresql + Ollama] for beginner
 
 ![Result](git-pics/result.png)
 
